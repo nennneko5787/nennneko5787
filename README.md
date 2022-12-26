@@ -1,4 +1,4 @@
-[![nennneko5787's GitHub stats](https://github-readme-stats.vercel.app/api?username=nennneko5787)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nennneko5787)](https://github.com/anuraghazra/github-readme-stats)
 # English
 ### Hi, My name is nennneko5787👋  
 * I can use the language Hot Soup Processor and PHP⌨  
